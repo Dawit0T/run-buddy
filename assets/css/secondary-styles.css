@@ -5,7 +5,7 @@
     margin-bottom: 40px;
   }
   .hero {
-    background-image: url(../assets/images/hero-bg.jpg);
+    background-image: url(../images/flipped-hero-bg.jpg);
     background-size: cover;
     background-position: bottom;
     position: relative;
